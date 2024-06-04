@@ -5,8 +5,9 @@
 ## Description
 
 This tool allows for generation of READMEs based on user input. In fact, this very README was created using this Readme Generator!
-
+Below are screenshots to demonstrate the functionality of the README Generator. [Link to the video](https://drive.google.com/file/d/1oJBfaaqREh1XZ9Izgx6mGLmGTs3KDCDv/view)
 ![README Generator Functionality](./images/screenshot.png)
+![README Generator Functionality Video](./images/functionality.gif)
 
 ## Table of Contents
 
