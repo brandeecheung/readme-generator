@@ -6,6 +6,8 @@
 
 This tool allows for generation of READMEs based on user input. In fact, this very README was created using this Readme Generator!
 
+![README Generator Functionality](./images/screenshot.png)
+
 ## Table of Contents
 
 * [Installation](#installation)
